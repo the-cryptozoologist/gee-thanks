@@ -1,4 +1,4 @@
-# <Google Earth Engine: Water Quality and Wildfire tracker>
+# Google Earth Engine: Water Quality and Wildfire tracker
 
 ## Description
   
